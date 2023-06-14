@@ -1,1 +1,2 @@
--e#!/bin/bash\nfind . -type d -not -name . | wc -l
+-e#!/bin/bash
+find . -type d -not -name . | wc -l
